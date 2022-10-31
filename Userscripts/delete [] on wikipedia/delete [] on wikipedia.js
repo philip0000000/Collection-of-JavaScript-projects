@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name     delete "[*]" on wikipedia
+// @description delete "[*]" on wikipedia
 // @version  1
 // @grant    none
 // @include  /^https?://[\s\S]*\.wikipedia\.org/.*$/
